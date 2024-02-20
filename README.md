@@ -2,6 +2,16 @@
 
 A C# implementation of HFST. The code is based on [HFST for Java](https://github.com/hfst/hfst-optimized-lookup/tree/master/hfst-optimized-lookup-java).
 
+## Installation
+
+You can install the [NuGet package](https://www.nuget.org/packages/MikaHamalainen.hfst/) in Visual Studio or use the command-line tools
+
+    dotnet add package MikaHamalainen.hfst
+
+After installing the package, you can import it like this:
+
+    using hfst;
+
 ## Usage
 
 You can load a transducer like this
