@@ -35,3 +35,20 @@ Output:
 
 You can get the analysis as a string by calling analysis.ToString()
 
+## Cite
+
+If you use this in your academic work, you can cite the library like this:
+
+Hämäläinen, M. (2024). HFST.NET - A C# implementation of HFST. Zenodo. https://doi.org/10.5281/zenodo.10685259
+
+    @software{hamalainen_2024_10685259,
+        author       = {Hämäläinen, Mika},
+        title        = {HFST.NET - A C\# implementation of HFST},
+        month        = feb,
+        year         = 2024,
+        publisher    = {Zenodo},
+        doi          = {10.5281/zenodo.10685259},
+        url          = {https://doi.org/10.5281/zenodo.10685259}
+    }
+
+
